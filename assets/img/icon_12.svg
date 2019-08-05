@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g class="nc-icon-wrapper" stroke-linecap="square" stroke-linejoin="miter" stroke-width="4" fill="#ae1c1b" stroke="#ae1c1b">
+        <polyline data-cap="butt" fill="none" stroke="#ae1c1b" stroke-miterlimit="10" points="30,14 42,14 46,26 46,35 40.9,35 " stroke-linecap="butt"/> 
+        <line data-cap="butt" fill="none" stroke="#ae1c1b" stroke-miterlimit="10" x1="31.1" y1="35" x2="17.977" y2="35" stroke-linecap="butt"/> 
+        <polyline data-cap="butt" fill="none" stroke="#ae1c1b" stroke-miterlimit="10" points="7,35 2,35 2,7 30,7 30,27 " stroke-linecap="butt"/> 
+        <circle data-color="color-2" fill="none" stroke-miterlimit="10" cx="12.5" cy="35.5" r="5.5"/> 
+        <circle data-color="color-2" fill="none" stroke-miterlimit="10" cx="36" cy="36" r="5"/>
+    </g>
+</svg>
